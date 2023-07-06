@@ -1,0 +1,43 @@
+---
+title: "ドラえもん"
+subtitle: "Volumn 1"
+author:
+- 藤子・F・不二雄
+format:
+  html:
+    embed-resources: true
+    anchor-sections: true
+    toc: true
+    toc-depth: 3
+    toc-expand: 3
+---
+
+
+# 未来の国からはるばると
+
+* 未来：みらい
+* 国：くに
+* から：from
+* はるばる：遥々
+* と：？
+
+TR: All the way from the future country
+
+> のどかなお正月だなあ
+
+* のどか：na-adjective, peaceful
+* 正月：しょうがつ
+* だ：？
+* なあ：？
+
+TR: It's a peaceful New Year
+
+> 今年はいいことがありそうだ。
+
+* 今年：ことし
+* いいこと：good thing
+* ありそう：ある, to happen
+* だ：？
+
+TR: Good things are going to happen this year.
+
