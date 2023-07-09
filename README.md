@@ -15,5 +15,9 @@ reload -n 10.162.2.83 -p 8282 -e html
 ```
 
 Then open http://10.162.2.83:8282/vol-01.html in browser.
-Now you can study the sentences word by word With browser extensions like JapaneseIO
-or rikaikun.
+
+When working on laptop, run `reload -b -e html` instead.
+Then the web page will be opened automatically in your default browser.
+
+Now you can study the sentences word by word With browser
+extensions like JapaneseIO or rikaikun.
