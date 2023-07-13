@@ -21,3 +21,7 @@ Then the web page will be opened automatically in your default browser.
 
 Now you can study the sentences word by word With browser
 extensions like JapaneseIO or rikaikun.
+
+## OCR Manga Texts
+
+Verified with swagger API by uploading a manually captured manga texts.

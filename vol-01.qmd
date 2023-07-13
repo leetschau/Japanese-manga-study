@@ -19,18 +19,19 @@ format:
 * 国：くに
 * から：from
 * はるばる：遥々
-* と：？
+* と：This is a particle that can be used in various ways, including to indicate a quotation, a reason, or a manner in which something is done.
+  In this sentence, it functions as a particle of manner, indicating how the action of coming is performed.
 
-TR: All the way from the future country
+TR: From a country far away in the future
 
 > のどかなお正月だなあ
 
 * のどか：na-adjective, peaceful
 * 正月：しょうがつ
-* だ：？
-* なあ：？
+* だ：This is a copula in Japanese, which is used to link the subject and predicate of a sentence. In this sentence, it indicates that the state or quality being described is "peaceful" or "tranquil." It corresponds to the English verb "to be."
+* なあ：This is an interjection or sentence-ending particle in Japanese, which is used to express emotions or feelings. It adds a sense of contemplation or emphasis to the sentence. In this case, it expresses a sense of agreement or confirmation with the statement.
 
-TR: It's a peaceful New Year
+Putting it all together, "のどかなお正月だなあ" can be translated as "It's a peaceful New Year's, isn't it?" The sentence describes the tranquil atmosphere or state of the New Year's celebration, and the interjection "なあ" adds a touch of agreement or affirmation to the statement.
 
 > 今年はいいことがありそうだ。
 
